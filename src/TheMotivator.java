@@ -6,6 +6,8 @@ public class TheMotivator {
             System.out.println("That's great");
         else if (score > 60)
             System.out.println("That's good ");
+        else if (score > 50)
+            System.out.println("EHHH");
         else
             System.out.println("Well, what can I say?");
     }
@@ -13,5 +15,5 @@ public class TheMotivator {
         TheMotivator tm = new TheMotivator();
         tm.feedback(60);
     }
-}a
+}
 
