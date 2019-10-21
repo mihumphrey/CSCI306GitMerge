@@ -8,8 +8,11 @@ public class TheMotivator {
             System.out.println("That's good ");
         else if (score > 50)
             System.out.println("EHHH");
+        else if (score < 0)
+            System.out.println("Impossible!");
         else
             System.out.println("Well, what can I say?");
+
     }
     public static void main(String[] args) {
         TheMotivator tm = new TheMotivator();
