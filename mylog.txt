@@ -1,0 +1,14 @@
+*   MERGE
+|\  
+| * added another function call in AntiMotivator
+* | Added <0 comparison
+* | Added optimist branch/class
+* |   Merge branch 'Neutral'
+|\ \  
+| * | Added neutral class/branch
+| |/  
+* | Another function call in the motivator
+|/  
+* Added AntiMotivator Class
+* Added additional condition
+* Initial Commit
